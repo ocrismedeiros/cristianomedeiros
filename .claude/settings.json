@@ -5,13 +5,20 @@
     "business-growth-skills@claude-code-skills": true,
     "finance-skills@claude-code-skills": true,
     "commercial-skills@claude-code-skills": true,
-    "business-operations-skills@claude-code-skills": true
+    "business-operations-skills@claude-code-skills": true,
+    "i-have-adhd@i-have-adhd": true
   },
   "extraKnownMarketplaces": {
     "claude-code-skills": {
       "source": {
         "source": "github",
         "repo": "alirezarezvani/claude-skills"
+      }
+    },
+    "i-have-adhd": {
+      "source": {
+        "source": "github",
+        "repo": "ayghri/i-have-adhd"
       }
     }
   }
